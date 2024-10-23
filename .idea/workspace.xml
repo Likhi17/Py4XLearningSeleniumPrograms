@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5865927e-bbc8-4279-988b-f484bc930ea0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/test_lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/test_lab02.py" afterDir="false" />
+    <list default="true" id="5865927e-bbc8-4279-988b-f484bc930ea0" name="Changes" comment="15th Oct 2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Likhi17"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Likhi17/Py4XLearningSeleniumPrograms.git",
+    "accountId": "f09a1b0a-905e-4780-9c37-2e67095a63ae"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -71,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729537730707</updated>
     </task>
+    <task id="LOCAL-00001" summary="15th Oct 2024">
+      <option name="closed" value="true" />
+      <created>1729540950219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729540950219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15th Oct 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="15th Oct 2024" />
   </component>
 </project>
