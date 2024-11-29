@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5865927e-bbc8-4279-988b-f484bc930ea0" name="Changes" comment="15th Oct 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +51,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in Task_1.py.executor": "Run",
+    "Python tests.Python tests in Task_2.py.executor": "Run",
+    "Python tests.Python tests in test_lab03.py.executor": "Run",
+    "Python tests.Python tests in test_lab04.py.executor": "Run",
+    "Python tests.Python tests in test_lab05.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/likhi/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_15102024"
+    "last_opened_file_path": "C:/Users/likhi/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_17102024"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_17102024" />
       <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_15102024" />
     </key>
   </component>
@@ -82,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729540950219</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="15th Oct 2024">
+      <option name="closed" value="true" />
+      <created>1729684245925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729684245925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
