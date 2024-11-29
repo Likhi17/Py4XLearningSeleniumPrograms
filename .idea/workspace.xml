@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5865927e-bbc8-4279-988b-f484bc930ea0" name="Changes" comment="15th and 17th Oct 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/testlab06.py" afterDir="false" />
-    </list>
+    <list default="true" id="5865927e-bbc8-4279-988b-f484bc930ea0" name="Changes" comment="17th Oct 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732876951907</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="17th Oct 2024">
+      <option name="closed" value="true" />
+      <created>1732877081124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732877081124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="15th Oct 2024" />
     <MESSAGE value="15th and 17th Oct 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="15th and 17th Oct 2024" />
+    <MESSAGE value="17th Oct 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="17th Oct 2024" />
   </component>
 </project>
