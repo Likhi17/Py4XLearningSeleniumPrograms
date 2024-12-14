@@ -18,8 +18,8 @@ def test_verify_svg():
 
     # //*[name()='svg']/*[name()='g'][7]/*[name()='g']/*[name()='g']/*[name()='path']
 
-    list_of_states = driver.find_elements(By.XPATH,
-                                          "//*[name()='svg']/*[name()='g'][7]/*[name()='g']/*[name()='g']/*[name()='path']")
+    list_of_states = driver.find_elements(By.XPATH,"//*[name()='svg']/*[name()='g'][7]/*[name()='g']/*[name()='g']/*[name()='path']")
+
     for state in list_of_states:
         print(state.get_attribute("aria-label"))
         if "Tripura" in state.get_attribute("aria-label"):
