@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5865927e-bbc8-4279-988b-f484bc930ea0" name="Changes" comment="24th Oct 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024_Selenium/test_Lab_Selenium_Web_Tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024_Selenium/test_Lab_Selenium_Web_Tables02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class/test_Lab_Selenium_Actions_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class/test_Lab_Selenium_Actions_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class/test_Lab_Selenium_Actions_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class/test_Lab_Selenium_Actions_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class/test_Lab_Selenium_Windows_Actions_JS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class/test_Lab_Selenium_Windows_P1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24102024_Selenium/test_Lab_Selenium_SVG_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024_Selenium/test_Lab_Selenium_SVG_Part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +62,10 @@
     "Python tests.Python tests for tast_lab13.test_5.executor": "Run",
     "Python tests.Python tests for tast_lab14_Explicit_Fluent_Wait.test_5.executor": "Run",
     "Python tests.Python tests for tast_lab15_Explicit_Wait.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P1.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Alerts.test_alerts_confirm.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Alerts.test_alerts_js_alert.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Alerts.test_alerts_prompt.executor": "Run",
@@ -68,6 +76,8 @@
     "Python tests.Python tests for test_Lab_Selenium_SVG_Part1.test_alerts_js_alert.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Web_Tables.test_web_tables.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Web_Tables02.test_web_tables.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests in Task_1.py.executor": "Run",
     "Python tests.Python tests in Task_2.py.executor": "Run",
     "Python tests.Python tests in test_lab03.py.executor": "Run",
@@ -75,101 +85,104 @@
     "Python tests.Python tests in test_lab05.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/likhi/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_24102024_Selenium"
+    "last_opened_file_path": "C:/Users/likhi/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_26102024_Selenium_Actions_Class"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_26102024_Selenium_Actions_Class" />
       <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_24102024_Selenium" />
       <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_22102024_CSS_Selectors" />
       <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_19102024_Locators" />
       <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_17102024" />
-      <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_15102024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\likhi\PycharmProjects\Py4XLearningSeleniumPrograms\src\ex_26102024_Selenium_Actions_Class" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_Web_Tables02.test_web_tables">
-    <configuration name="Python tests for test_Lab_Selenium_Exception_Handle.test_exception_handle" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip">
+    <configuration name="Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_keyboard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24102024_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_Handle.test_exception_handle&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_P2.test_verify_action_keyboard&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_keyboard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24102024_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_P1.test_verify_svg&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_P3.test_verify_action_keyboard&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24102024_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_SVG_Part2.test_verify_svg&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Web_Tables02.test_web_tables" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24102024_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Web_Tables02.test_web_tables&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Web_Tables.test_web_tables" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24102024_Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Web_Tables.test_web_tables&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Web_Tables02.test_web_tables" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Web_Tables.test_web_tables" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_Handle.test_exception_handle" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_keyboard" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_keyboard" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734082037663</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="24th Oct 2024">
+      <option name="closed" value="true" />
+      <created>1734177596932</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734177596932</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,6 +298,11 @@
           <url>file://$PROJECT_DIR$/src/ex_24102024_Selenium/test_Lab_Selenium_Exception_TimeoutException.py</url>
           <line>14</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_24102024_Selenium/test_Lab_Selenium_Web_Tables02.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
